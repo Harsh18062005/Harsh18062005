@@ -1,79 +1,175 @@
-# Hi 👋, I'm Harsh Juneja
+<h1 align="center">Hi 👋, I'm Harsh Juneja</h1>
 
-### 💻 B.Tech CSE Student | Aspiring Software Developer
+<h3 align="center">
+Software Developer • Java Developer • Full Stack Web Development Enthusiast
+</h3>
 
-I'm a Computer Science student at **ABES Engineering College** passionate about Software Development, Java, Full Stack Web Development and solving Data Structures & Algorithms problems.
+<p align="center">
+<a href="https://www.linkedin.com/in/harshjuneja2005">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:junejaharsh1806@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Harsh18062005">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (2024–2028)
-- 🌱 Currently learning **Java, DSA and Full Stack Development**
-- 💡 Interested in Software Engineering & Web Development
-- 📍 Ghaziabad, Uttar Pradesh
-- 📫 Email: **junejaharsh1806@gmail.com**
+🎓 B.Tech Computer Science & Engineering
+
+🏫 ABES Engineering College (2024–2028)
+
+🌱 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- Full Stack Web Development
+
+💡 Interested In
+
+- Software Development
+- Backend Development
+- Full Stack Development
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Web Development
+<p>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python"/>
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+</p>
 
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+### Database
 
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
 
 ---
 
-## 📌 Featured Project
+# 📌 Featured Project
 
-### 🍔 CraveX
+## 🍔 CraveX
 
 Responsive Food Ordering Website
 
-🔗 Live Demo:
+✨ Features
+
+- Responsive UI
+- Mobile Friendly
+- Modern Design
+- Fast Loading
+
+### Tech Used
+
+HTML • CSS • JavaScript
+
+### Live
+
 https://cravex-food.vercel.app
 
-🔗 GitHub:
+### GitHub
+
 https://github.com/Harsh18062005/Cravex
 
 ---
 
-## 📈 Coding Profiles
+# 🏆 Certifications
 
-- 💻 LeetCode: https://leetcode.com/u/junejaharsh1806/
-- 🍜 CodeChef: https://www.codechef.com/users/harshjuneja18
+✔ Cisco Networking Basics
+
+✔ Python Essentials 1
+
+✔ Python Essentials 2
+
+✔ Exploratory Data Analysis
+
+✔ Tata Crucible
 
 ---
 
-## 📫 Connect with Me
+# 💻 Coding Profiles
 
-- LinkedIn:
-  https://www.linkedin.com/in/harshjuneja2005
+💙 LeetCode
 
-- GitHub:
-  https://github.com/Harsh18062005
+https://leetcode.com/u/junejaharsh1806/
 
-- Email:
-  junejaharsh1806@gmail.com
+💚 CodeChef
+
+https://www.codechef.com/users/harshjuneja18
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh18062005&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh18062005&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harsh18062005&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+📧 Email
+
+junejaharsh1806@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/harshjuneja2005
+
+💻 GitHub
+
+https://github.com/Harsh18062005
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+</h3>
