@@ -9,7 +9,7 @@ Aspiring Software Developer | Java Developer | Full Stack Web Development Enthus
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=junejaharsh1806@gmail.com">
+<a href="mailto:junejaharsh1806@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -24,33 +24,33 @@ Aspiring Software Developer | Java Developer | Full Stack Web Development Enthus
 
 - 🎓 B.Tech in Computer Science & Engineering (2024–2028)
 - 🏫 ABES Engineering College, Ghaziabad
-- 🌱 Currently learning **Java, DSA, and Full Stack Web Development**
-- 💡 Passionate about Software Engineering and building real-world projects
+- 💻 Passionate about Software Development and Full Stack Development
+- 🌱 Currently learning Java, Data Structures & Algorithms and Full Stack Web Development
 - 📍 Ghaziabad, Uttar Pradesh
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python" />
 </p>
 
-### 🌐 Web Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄 Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### ⚙ Developer Tools
+### Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -69,65 +69,53 @@ Aspiring Software Developer | Java Developer | Full Stack Web Development Enthus
 
 ## 🍔 CraveX – Food Ordering Website
 
-Responsive food ordering website built during the IBM SkillsBuild Virtual Internship.
+A responsive food ordering website developed during the IBM SkillsBuild Virtual Internship.
 
-### Features
+### Highlights
 
-- Responsive UI
-- Mobile-friendly design
-- Clean user interface
-- Fast loading pages
+- Responsive design
+- Mobile-friendly UI
+- Clean and modern interface
+- Deployed on Vercel
 
-### Technologies
+### Tech Stack
 
-`HTML` `CSS` `JavaScript`
+`HTML` • `CSS` • `JavaScript`
 
-### 🔗 Live Demo
+### Live Demo
 
-https://cravex-food.vercel.app
+🔗 https://cravex-food.vercel.app
 
-### 🔗 Repository
+### Repository
 
-https://github.com/Harsh18062005/Cravex
+🔗 https://github.com/Harsh18062005/Cravex
+
+---
+
+# 🌱 Currently Learning
+
+- Java
+- Data Structures & Algorithms
+- SQL
+- Full Stack Web Development
+- Git & GitHub
 
 ---
 
 # 📜 Certifications
 
 - Cisco Networking Basics
-- Python Essentials 1 (Cisco Networking Academy)
-- Python Essentials 2 (Cisco Networking Academy)
-- Exploratory Data Analysis – FutureSkills Prime
-- Tata Crucible – Tata Consultancy Services
+- Python Essentials 1
+- Python Essentials 2
+- Exploratory Data Analysis (FutureSkills Prime)
+- Tata Crucible
 
 ---
 
 # 💻 Coding Profiles
 
-- 🟢 **LeetCode:** https://leetcode.com/u/junejaharsh1806/
-- 🟤 **CodeChef:** https://www.codechef.com/users/harshjuneja18
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh18062005&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh18062005&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Harsh18062005&theme=github-dark"/>
-
-</p>
+- **LeetCode:** https://leetcode.com/u/junejaharsh1806/
+- **CodeChef:** https://www.codechef.com/users/harshjuneja18
 
 ---
 
@@ -137,11 +125,8 @@ https://github.com/Harsh18062005/Cravex
 
 💼 **LinkedIn:** https://www.linkedin.com/in/harshjuneja2005
 
-💻 **GitHub:** https://github.com/Harsh18062005
-
 ---
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b><br>
-I'm always learning, building projects, and improving my skills.
+⭐ Thanks for visiting my profile! ⭐
 </p>
